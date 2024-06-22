@@ -34,7 +34,7 @@
         <li>Recall</li>
     </ul>
     <h2>Author</h2>
-    <p>Your Name</p>
+    <p>Maseera Patni</p>
     <h2>License</h2>
     <p>This project is licensed under the MIT License.</p>
 </body>
